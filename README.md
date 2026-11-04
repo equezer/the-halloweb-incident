@@ -5,3 +5,5 @@ Escape Room - Projecte de Git i GitHub
 
 - He creat la branca feature/status-dashboard
 - He creat l'arxiu reports/dashboard.md, dins hi ha la taula per monitoritzar amenaçes
+- He investigat les branques dels meus companys per veure els arxius del sistema
+- He trobat (data/ghost_hosts.csv) - (scripts/exorcism.sh)
