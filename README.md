@@ -12,3 +12,5 @@ Escape Room - Projecte de Git i GitHub
 
 ### He trobat una branca infectada
 - Branca: feature/nightmare-code
+- He actualitzat la dashboard, ara la branca està monitoritzada
+- He coordinat tots els canvis amb els altres agents.
