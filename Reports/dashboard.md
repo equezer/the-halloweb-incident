@@ -1,14 +1,13 @@
 ## Monitoratge d'amenaces
 
-| Host | Adreça IP | Tipus d'amenaça | Port infectat | Estat |
-|---|---|---|---|---|
-| Ghost-01 | 192.168.1.10 | Programari maliciós | 443 | Pendent |
-| Ghost-02 | 192.168.1.20 | Troià | 22 | Pendent |
-| Ghost-03 | 192.168.1.30 | Ransomware | 8080 | Pendent |
+ID,IP,Nom_Amenaca,Nivell_Risc,Estat
+1,192.168.1.100,Ghost_Trojan,Critic,Infectat
+2,192.168.1.101,Shadow_Worm,Alt,Infectat
+3,192.168.1.102,Phantom_Bot,Mitja,Sospitos
+4,192.168.1.103,Dark_Spirit,Baix,Controlat
 
 ## Resum de seguretat
-
-- **Hosts detectats:** 3
+- **Hosts detectats:** 4
 - **Amenaces pendents:** 3
-- **Amenaces aïllades:** 0
+- **Amenaces aïllades:** 1
 - **Estat general del sistema:** EN ALERTA
