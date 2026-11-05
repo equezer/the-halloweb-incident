@@ -1,0 +1,6 @@
+
+ID,IP,Nom_Amenaca,Nivell_Risc,Estat
+1,192.168.1.100,Ghost_Trojan,Critic,Infectat
+2,192.168.1.101,Shadow_Worm,Alt,Infectat
+3,192.168.1.102,Phantom_Bot,Mitja,Sospitos
+4,192.168.1.103,Dark_Spirit,Baix,Controlat
