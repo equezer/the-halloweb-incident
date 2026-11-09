@@ -1,5 +1,18 @@
 # the-halloweb-incident
+### Fase 1 - Agent 2
 Escape Room - Projecte de Git i GitHub
+Escape Room - Projecte de Git i GitHub## Fase 1 – Agent 2: Scripting i Lògica
+
+### Investigació
+- S'ha investigat l'estructura de les branques remotes.
+- S'ha localitzat el fitxer de dades ghost_hosts.csv.
+- S'ha analitzat l'estructura de les dades necessàries per a l'script.
+
+### Desenvolupament
+- S'ha creat l'script scripts/exorcism.sh.
+
+### Commits
+- Creació de l'estructura inicial de l'script.
 ### Fase 1 - Agent 3
 
 - He creat la branca feature/status-dashboard
