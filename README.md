@@ -1,6 +1,5 @@
 # the-halloweb-incident
 Escape Room - Projecte de Git i GitHub
-
 ### Fase 1 - Agent 3
 
 - He creat la branca feature/status-dashboard
@@ -14,3 +13,13 @@ Escape Room - Projecte de Git i GitHub
 - Branca: feature/nightmare-code
 - He actualitzat la dashboard, ara la branca està monitoritzada
 - He coordinat tots els canvis amb els altres agents.
+
+## Fase 1 - Agent 1 (Admin/Dades)
+
+- He creat el repositori de GitHub.
+- He convidat els col·laboradors.
+- He creat la branca projecte/spectral-data.
+- He creat el fitxer data/ghost_hosts.csv.
+- He compartit l'estructura del CSV amb l'Agent 2.
+
+
