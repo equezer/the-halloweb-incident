@@ -1,0 +1,13 @@
+## Monitoratge d'amenaces
+
+ID,IP,Nom_Amenaca,Nivell_Risc,Estat,Port_Infectat
+1,192.168.1.100,Ghost_Trojan,Critic,Infectat,22
+2,192.168.1.101,Shadow_Worm,Alt,Infectat,3389
+3,192.168.1.102,Phantom_Bot,Mitja,Sospitos,80
+4,192.168.1.103,Dark_Spirit,Baix,Controlat,443
+
+## Resum de seguretat
+- **Hosts detectats:** 4
+- **Amenaces pendents:** 3
+- **Amenaces aïllades:** 1
+- **Estat general del sistema:** EN ALERTA
